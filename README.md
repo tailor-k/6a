@@ -1,7 +1,7 @@
 6aの事前課題をandroidで試しました。<br>
 alertやpromptのリンクを押すと表示され，その際に上部のテキストが変更されるようになっています。<br><br>
 
-androidのファイル：MainActivity.java、activity_main.xml、Android_Manifest.xml<br>
+クライアント(android)のファイル：MainActivity.java、activity_main.xml、AndroidManifest.xml<br>
 サーバのファイル：index.html<br>
 結果画像のファイル：start_screen.png、alert_screen.png、prompt_screen.png<br><br>
 
